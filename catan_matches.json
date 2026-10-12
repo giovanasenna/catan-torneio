@@ -1,0 +1,342 @@
+[
+  {
+    "id": "match-inv-01",
+    "date": "2026-07-15",
+    "season": "Inverno",
+    "scenarioId": "base",
+    "scenarioName": "Catan Jogo Base",
+    "targetVP": 10,
+    "notes": "Abertura oficial do circuito 2026. Disputa acirrada pela Maior Estrada.",
+    "is5to6Players": false,
+    "winnerId": "rodrigo",
+    "winnerName": "Rodrigo",
+    "createdAt": "2026-07-15T18:30:00.000Z",
+    "playerResults": [
+      {
+        "playerId": "rodrigo",
+        "playerName": "Rodrigo",
+        "isOfficial": true,
+        "playerColorHex": "#2563EB",
+        "vp": 10,
+        "normalizedVP": 1,
+        "balancedVPPercent": 33.33,
+        "isWinner": true
+      },
+      {
+        "playerId": "giovana",
+        "playerName": "Giovana",
+        "isOfficial": true,
+        "playerColorHex": "#DC2626",
+        "vp": 8,
+        "normalizedVP": 0.8,
+        "balancedVPPercent": 26.67,
+        "isWinner": false
+      },
+      {
+        "playerId": "jhonata",
+        "playerName": "Jhonata",
+        "isOfficial": true,
+        "playerColorHex": "#F8FAFC",
+        "vp": 7,
+        "normalizedVP": 0.7,
+        "balancedVPPercent": 23.33,
+        "isWinner": false
+      },
+      {
+        "playerId": "zhang",
+        "playerName": "Zhang",
+        "isOfficial": true,
+        "playerColorHex": "#EAB308",
+        "vp": 5,
+        "normalizedVP": 0.5,
+        "balancedVPPercent": 16.67,
+        "isWinner": false
+      }
+    ]
+  },
+  {
+    "id": "match-inv-02",
+    "date": "2026-07-28",
+    "season": "Inverno",
+    "scenarioId": "seafarers-1",
+    "scenarioName": "Cenário 1: Rumo a Novas Margens",
+    "targetVP": 14,
+    "notes": "Navegação agressiva com Jhonata colonizando a ilha norte.",
+    "is5to6Players": false,
+    "winnerId": "jhonata",
+    "winnerName": "Jhonata",
+    "createdAt": "2026-07-28T20:15:00.000Z",
+    "playerResults": [
+      {
+        "playerId": "jhonata",
+        "playerName": "Jhonata",
+        "isOfficial": true,
+        "playerColorHex": "#F8FAFC",
+        "vp": 14,
+        "normalizedVP": 1,
+        "balancedVPPercent": 31.82,
+        "isWinner": true
+      },
+      {
+        "playerId": "giovana",
+        "playerName": "Giovana",
+        "isOfficial": true,
+        "playerColorHex": "#DC2626",
+        "vp": 12,
+        "normalizedVP": 0.857,
+        "balancedVPPercent": 27.27,
+        "isWinner": false
+      },
+      {
+        "playerId": "rodrigo",
+        "playerName": "Rodrigo",
+        "isOfficial": true,
+        "playerColorHex": "#2563EB",
+        "vp": 10,
+        "normalizedVP": 0.714,
+        "balancedVPPercent": 22.73,
+        "isWinner": false
+      },
+      {
+        "playerId": "zhang",
+        "playerName": "Zhang",
+        "isOfficial": true,
+        "playerColorHex": "#EAB308",
+        "vp": 8,
+        "normalizedVP": 0.571,
+        "balancedVPPercent": 18.18,
+        "isWinner": false
+      }
+    ]
+  },
+  {
+    "id": "match-inv-03",
+    "date": "2026-08-12",
+    "season": "Inverno",
+    "scenarioId": "seafarers-2",
+    "scenarioName": "Cenário 2: As Quatro Ilhas",
+    "targetVP": 13,
+    "notes": "Fechamento da Estação Inverno com vitória espetacular de Giovana.",
+    "is5to6Players": false,
+    "winnerId": "giovana",
+    "winnerName": "Giovana",
+    "createdAt": "2026-08-12T19:40:00.000Z",
+    "playerResults": [
+      {
+        "playerId": "giovana",
+        "playerName": "Giovana",
+        "isOfficial": true,
+        "playerColorHex": "#DC2626",
+        "vp": 13,
+        "normalizedVP": 1,
+        "balancedVPPercent": 30.23,
+        "isWinner": true
+      },
+      {
+        "playerId": "jhonata",
+        "playerName": "Jhonata",
+        "isOfficial": true,
+        "playerColorHex": "#F8FAFC",
+        "vp": 11,
+        "normalizedVP": 0.846,
+        "balancedVPPercent": 25.58,
+        "isWinner": false
+      },
+      {
+        "playerId": "rodrigo",
+        "playerName": "Rodrigo",
+        "isOfficial": true,
+        "playerColorHex": "#2563EB",
+        "vp": 10,
+        "normalizedVP": 0.769,
+        "balancedVPPercent": 23.26,
+        "isWinner": false
+      },
+      {
+        "playerId": "zhang",
+        "playerName": "Zhang",
+        "isOfficial": true,
+        "playerColorHex": "#EAB308",
+        "vp": 9,
+        "normalizedVP": 0.692,
+        "balancedVPPercent": 20.93,
+        "isWinner": false
+      }
+    ]
+  },
+  {
+    "id": "match-prim-01",
+    "date": "2026-09-20",
+    "season": "Primavera",
+    "scenarioId": "base",
+    "scenarioName": "Catan Jogo Base",
+    "targetVP": 10,
+    "notes": "Abertura da Primavera. Zhang dominou as cartas de desenvolvimento com Maior Exército.",
+    "is5to6Players": false,
+    "winnerId": "zhang",
+    "winnerName": "Zhang",
+    "createdAt": "2026-09-20T17:00:00.000Z",
+    "playerResults": [
+      {
+        "playerId": "zhang",
+        "playerName": "Zhang",
+        "isOfficial": true,
+        "playerColorHex": "#EAB308",
+        "vp": 10,
+        "normalizedVP": 1,
+        "balancedVPPercent": 31.25,
+        "isWinner": true
+      },
+      {
+        "playerId": "giovana",
+        "playerName": "Giovana",
+        "isOfficial": true,
+        "playerColorHex": "#DC2626",
+        "vp": 9,
+        "normalizedVP": 0.9,
+        "balancedVPPercent": 28.13,
+        "isWinner": false
+      },
+      {
+        "playerId": "rodrigo",
+        "playerName": "Rodrigo",
+        "isOfficial": true,
+        "playerColorHex": "#2563EB",
+        "vp": 7,
+        "normalizedVP": 0.7,
+        "balancedVPPercent": 21.88,
+        "isWinner": false
+      },
+      {
+        "playerId": "jhonata",
+        "playerName": "Jhonata",
+        "isOfficial": true,
+        "playerColorHex": "#F8FAFC",
+        "vp": 6,
+        "normalizedVP": 0.6,
+        "balancedVPPercent": 18.75,
+        "isWinner": false
+      }
+    ]
+  },
+  {
+    "id": "match-prim-02",
+    "date": "2026-10-02",
+    "season": "Primavera",
+    "scenarioId": "seafarers-3",
+    "scenarioName": "Cenário 3: Oceania",
+    "targetVP": 12,
+    "notes": "Partida com participação do visitante Lucas (roxo). Giovana garantiu o pódio!",
+    "is5to6Players": true,
+    "winnerId": "giovana",
+    "winnerName": "Giovana",
+    "createdAt": "2026-10-02T21:10:00.000Z",
+    "playerResults": [
+      {
+        "playerId": "giovana",
+        "playerName": "Giovana",
+        "isOfficial": true,
+        "playerColorHex": "#DC2626",
+        "vp": 12,
+        "normalizedVP": 1,
+        "balancedVPPercent": 28.57,
+        "isWinner": true
+      },
+      {
+        "playerId": "rodrigo",
+        "playerName": "Rodrigo",
+        "isOfficial": true,
+        "playerColorHex": "#2563EB",
+        "vp": 11,
+        "normalizedVP": 0.917,
+        "balancedVPPercent": 26.19,
+        "isWinner": false
+      },
+      {
+        "playerId": "jhonata",
+        "playerName": "Jhonata",
+        "isOfficial": true,
+        "playerColorHex": "#F8FAFC",
+        "vp": 9,
+        "normalizedVP": 0.75,
+        "balancedVPPercent": 21.43,
+        "isWinner": false
+      },
+      {
+        "playerId": "zhang",
+        "playerName": "Zhang",
+        "isOfficial": true,
+        "playerColorHex": "#EAB308",
+        "vp": 8,
+        "normalizedVP": 0.667,
+        "balancedVPPercent": 19.05,
+        "isWinner": false
+      },
+      {
+        "playerId": "guest-lucas",
+        "playerName": "Lucas (Visitante)",
+        "isOfficial": false,
+        "playerColorHex": "#8B5CF6",
+        "vp": 6,
+        "normalizedVP": 0.5,
+        "balancedVPPercent": 14.29,
+        "isWinner": false
+      }
+    ]
+  },
+  {
+    "id": "match-prim-03",
+    "date": "2026-10-10",
+    "season": "Primavera",
+    "scenarioId": "seafarers-4",
+    "scenarioName": "Cenário 4: Através do Deserto",
+    "targetVP": 14,
+    "notes": "Rivalidade intensa na travessia das caravanas. Rodrigo conquistou a vitória.",
+    "is5to6Players": false,
+    "winnerId": "rodrigo",
+    "winnerName": "Rodrigo",
+    "createdAt": "2026-10-10T19:30:00.000Z",
+    "playerResults": [
+      {
+        "playerId": "rodrigo",
+        "playerName": "Rodrigo",
+        "isOfficial": true,
+        "playerColorHex": "#2563EB",
+        "vp": 14,
+        "normalizedVP": 1,
+        "balancedVPPercent": 31.82,
+        "isWinner": true
+      },
+      {
+        "playerId": "jhonata",
+        "playerName": "Jhonata",
+        "isOfficial": true,
+        "playerColorHex": "#F8FAFC",
+        "vp": 12,
+        "normalizedVP": 0.857,
+        "balancedVPPercent": 27.27,
+        "isWinner": false
+      },
+      {
+        "playerId": "giovana",
+        "playerName": "Giovana",
+        "isOfficial": true,
+        "playerColorHex": "#DC2626",
+        "vp": 10,
+        "normalizedVP": 0.714,
+        "balancedVPPercent": 22.73,
+        "isWinner": false
+      },
+      {
+        "playerId": "zhang",
+        "playerName": "Zhang",
+        "isOfficial": true,
+        "playerColorHex": "#EAB308",
+        "vp": 8,
+        "normalizedVP": 0.571,
+        "balancedVPPercent": 18.18,
+        "isWinner": false
+      }
+    ]
+  }
+]

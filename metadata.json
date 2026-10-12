@@ -1,0 +1,6 @@
+{
+  "name": "Torneio das 4 Estações de Catan",
+  "description": "Painel de gerenciamento do Torneio das 4 Estações de Catan: registro de partidas, ranking sazonal e anual, estatísticas e justiça estatística.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
